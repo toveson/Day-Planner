@@ -3,7 +3,7 @@
 * [Technologies](#technology)
 * [Home page](#landing-page)
 * [Collaborators](#collaborators)
-* [Pets Furever Website](#website-link)
+* [Day Planner Website](https://toveson.github.io/Day-Planner/)
 
 
 

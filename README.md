@@ -1,6 +1,6 @@
 ## Table of contents
 * [Day-Planner](#Day-Planner)
-* [Technologies](#technology)
+* [Technologies](#Technologies)
 * [Collaborators](#collaborators)
 * [Day Planner Website](https://toveson.github.io/Day-Planner/)
 

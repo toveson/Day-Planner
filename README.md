@@ -10,7 +10,7 @@
 
 This is a simple day planner for a normal work day from 9am to 5 pm. It allows the user to save events in the center column by entering what they would like and clicking the save button to the right. The users saved items will still be there even if they refresh the page.
 
-## technologies
+## Technologies
 * HTML
 * CSS
 * jQuery
